@@ -1,0 +1,33 @@
+.app-container {
+  .header {
+    background: #fff;
+    padding: 0;
+  }
+  .exchenge-button-wrapper {
+    float: right;
+    margin-right: 15px;
+  }
+  .app-content {
+    margin: 24px 16px;
+    padding: 24px;
+    background: #fff;
+    min-height: 280px;
+  }
+  .trigger {
+    margin-left: 17px;
+  }
+
+  .logo {
+    text-align: center;
+    margin: 10px 5px;
+    img {
+      width: 80%;
+    }
+  }
+}
+
+#root {
+  > .ant-layout {
+    min-height: 100vh;
+  }
+}

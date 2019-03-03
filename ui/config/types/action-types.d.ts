@@ -1,0 +1,10 @@
+/*
+ * THIS IS AN AUTO GENERATED FILE
+ * For further details look at scripts/generate-redux-types.js
+ * 
+ * Last updated at Wed Feb 27 2019 01:00:11 GMT-0300 (Brasilia Standard Time)
+ * 
+ */
+type ActionType = 'router/setHistory' | 'router/setPendingRoute' | 'router/injectHistory' | 'router/goTo' | 'exchangeRates/toggleDrawer' | 'exchangeRates/startLoading' | 'exchangeRates/stopLoading' | 'exchangeRates/setRates' | 'exchangeRates/initialize' | 'contractList/setContracts' | 'contractList/removeContract' | 'contractList/startLoading' | 'contractList/stopLoading' | 'contractList/initialize' | 'layout/toggleMenu' | 'addContract/initialize' | 'addContract/setField' | 'addContract/setContractProp' | 'addContract/setState' | 'addContract/setFormValidation' | 'addContract/onNextStep' | 'addContract/onPreviousStep' | 'addContract/resetContract' | 'addContract/startLoading' | 'addContract/stopLoading' | 'addContract/validate' | 'addContract/onConfirm' | 'editContract/setContract' | 'editContract/setContractProp' | 'editContract/setState' | 'editContract/startLoading' | 'editContract/stopLoading' | 'editContract/saveContract' | 'editContract/removeContract' | 'editContract/initialize' | 'message/open' | 'message/success' | 'message/error' | 'message/info' | 'message/loading' | 'message/warning' | 'web3/setStatus' | 'web3/setAccounts' | 'web3/setPreparedTransaction' | 'web3/startLoading' | 'web3/stopLoading' | 'web3/initialize' | 'web3/prepareTransaction' | 'web3/sendTransaction';
+
+type GetterType = 'router/currentPath' | 'router/pendingRoute' | 'router/history' | 'exchangeRates/isLoading' | 'exchangeRates/showDrawer' | 'exchangeRates/rates' | 'exchangeRates/currentRate' | 'contractList/isLoading' | 'contractList/contracts' | 'layout/menuCollapsed' | 'addContract/isLoading' | 'addContract/contract' | 'addContract/formValidation' | 'addContract/canGoBack' | 'addContract/canGoNext' | 'addContract/currentStep' | 'addContract/loadingDetails' | 'editContract/isLoading' | 'editContract/contract' | 'editContract/canSave' | 'web3/status' | 'web3/isLoading' | 'web3/accounts' | 'web3/transactionPriceInUsd' | 'web3/estimatedGas';
