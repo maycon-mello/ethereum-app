@@ -1,0 +1,33 @@
+[{
+  "id": "1",
+  "address": "<contract-address",
+  "user": {
+    "name": "Maycon",
+    "surname": "Mello",
+    "email": "maycon.mello@test.com"
+  },
+  "balance": 10,
+  "currency": "ETH",
+  "amountInUsd": 10,
+  "date": 1550982729172,
+  "type": "guess",
+  "config": {
+    "ticketPrice": 4.0  
+  }
+}, {
+  "id": "2",
+  "address": "<contract-address>",
+  "user": {
+    "name": "Jony",
+    "surname": "Tester",
+    "email": "jony.tester@test.com"
+  },
+  "balance": 11,
+  "currency": "ETH",
+  "amountInUsd": 10,
+  "date": 1550982729172,
+  "type": "lottery",
+  "config": {
+    "ticketPrice": 4.0  
+  }
+}]
