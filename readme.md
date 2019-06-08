@@ -3,8 +3,6 @@ This app allow the user to create smart contracts by selecting some options. For
 
 This is a very basic implementation, where contracts are created using web3 (i've tested with Rinkeby test network). A better approach would be using a contract to create the contracts, instead of deploying it manually in the frontend.
 
-Application URL: http://d33a9obslifgpe.cloudfront.net
-
 # The stack
 I'm gonna describe the stack here and why I choose each technology, framework.
 
