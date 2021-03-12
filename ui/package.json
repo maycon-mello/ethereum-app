@@ -93,7 +93,7 @@
     "react-app-polyfill": "^0.2.1",
     "react-chartjs": "^1.2.0",
     "react-chartjs-2": "^2.7.4",
-    "react-dev-utils": "^7.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.1",
     "react-redux": "^6.0.0",
     "react-router": "^4.3.1",
