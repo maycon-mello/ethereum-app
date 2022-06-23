@@ -63,7 +63,7 @@
     "gulp-awspublish": "4.0.0",
     "html-webpack-plugin": "4.0.0-alpha.2",
     "identity-obj-proxy": "3.0.0",
-    "jsdom": "^11.6.2",
+    "jsdom": "^16.5.0",
     "karma": "^1.7.1",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^2.2.0",
